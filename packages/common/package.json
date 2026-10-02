@@ -1,0 +1,15 @@
+{
+	"name": "common",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"private": true,
+	"scripts": {},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"exports": {
+		"./types": "./index.ts"
+	}
+}
